@@ -1,3 +1,8 @@
 body {
     background-color: pink;
 }
+#opening {
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+    }
