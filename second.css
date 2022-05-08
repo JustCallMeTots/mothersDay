@@ -1,0 +1,20 @@
+body {
+    background-color: turquoise;
+    background-image: url(MomCard.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+}
+#momsCard {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    
+}
+.card-title {
+    display: flex;
+    justify-content: center;
+}
+.card-text {
+    display: flex;
+    justify-content: center;
+}
